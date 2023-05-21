@@ -8,7 +8,8 @@
     }
   },
   "features": {
-    "ghcr.io/lukewiwa/features/shellcheck:0.2.3": {}
+    "ghcr.io/lukewiwa/features/shellcheck:0.2.3": {},
+    "ghcr.io/devcontainers/features/node:1.2.0": {}
 
   },
   "postCreateCommand": "bash band.sh"
